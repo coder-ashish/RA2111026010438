@@ -40,9 +40,9 @@ Now go to ```http://localhost:8000/docs/ ``` to test api.
 # API docs screenshots
 ## Task 1
 
-<img width="1465" alt="Screenshot 2024-04-03 at 7 23 27 PM" src="">
+<img width="1465" alt="Screenshot 2024-04-03 at 7 23 27 PM" src="https://github.com/coder-ashish/RA2111026010438/blob/main/assets/task1.png">
 
 ## Task2
-<img width="1465" alt="Screenshot 2024-04-03 at 7 22 14 PM" src="">
+<img width="1465" alt="Screenshot 2024-04-03 at 7 22 14 PM" src="https://github.com/coder-ashish/RA2111026010438/blob/main/assets/task2.png">
 
 
